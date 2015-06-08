@@ -1,0 +1,4 @@
+0x9e8f66e5	export_j	/home/ttakaluo/c_programming/kernel_export/moduleProcess	EXPORT_SYMBOL_GPL
+0xb5a23526	export_i	/home/ttakaluo/c_programming/kernel_export/moduleProcess	EXPORT_SYMBOL_GPL
+0x117d2bad	export_module_sub	/home/ttakaluo/c_programming/kernel_export/moduleCalc	EXPORT_SYMBOL_GPL
+0x9f974c97	export_module_sum	/home/ttakaluo/c_programming/kernel_export/moduleCalc	EXPORT_SYMBOL_GPL

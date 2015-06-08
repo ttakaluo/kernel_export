@@ -1,0 +1,3 @@
+kernel//home/ttakaluo/c_programming/kernel_export/moduleCalc.ko
+kernel//home/ttakaluo/c_programming/kernel_export/moduleProcess.ko
+kernel//home/ttakaluo/c_programming/kernel_export/modulePrint.ko

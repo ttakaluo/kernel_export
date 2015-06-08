@@ -1,0 +1,9 @@
+client
+server
+*.swp
+*.o
+*.ko
+*.cmd
+*.mod.c
+make_command
+.tmp*

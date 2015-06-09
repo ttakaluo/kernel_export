@@ -1,3 +1,3 @@
-obj-m += moduleCalc.o
-obj-m += moduleProcess.o
-obj-m += modulePrint.o
+obj-m += m_param.o
+obj-m += m_calc.o
+obj-m += m_print.o
